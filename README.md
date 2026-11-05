@@ -59,6 +59,6 @@ The dataset is saved to `data/raw/f1_2025_results.csv`.
 
 **Ronny Coulson**
 
-Computer Science | AI & Machine Learning | Automotive Engineering
+Computer Science | AI & Machine Learning | Software Engineering 
 
 [GitHub](https://github.com/ronnycoulson1)
