@@ -4,7 +4,7 @@
 
 An end-to-end engineering project using Python, data analytics, and machine learning to analyze Formula 1 performance and predict race outcomes.
 
-Part of **LIFE — Automotive AI & Motorsport Engineering**, exploring how AI and data can help us understand what makes cars fast.
+**Automotive AI & Motorsport Engineering**, exploring how AI and data can help us understand what makes cars fast.
 
 ## Project Objectives
 
